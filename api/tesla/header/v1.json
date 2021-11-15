@@ -49,6 +49,7 @@
       "titleMobile": "Used Inventory",
       "href": "/inventory/used/m3"
     },
+    { "title": "Trade-In", "titleMobile": "Trade-In", "href": "/tradein" },
     { "title": "Test Drive", "titleMobile": "Test Drive", "href": "/drive" },
     { "title": "Powerwall", "titleMobile": "Powerwall", "href": "/powerwall" },
     {
@@ -84,6 +85,7 @@
       "hideOn": ["phone-only"],
       "href": "/inventory/used/m3"
     },
+    { "title": "Trade-In", "titleMobile": "Trade-In", "href": "/tradein" },
     { "title": "Test Drive", "titleMobile": "Test Drive", "href": "/drive" },
     {
       "title": "Cybertruck",
