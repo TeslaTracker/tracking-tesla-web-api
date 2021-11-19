@@ -219,76 +219,66 @@
             {
               "adminName": "United States",
               "countryName": "United States",
-              "countryCode": "US",
+              "countryCode": "us",
               "languages": [
                 {
                   "adminName": "English",
                   "languageName": "English",
                   "languageCode": "en",
-                  "localeCode": "en_us",
-                  "localeUrlPrefix": "en_us"
+                  "localeCode": "en_us"
                 }
-              ],
-              "hiddenFromSelector": null
+              ]
             },
             {
               "adminName": "Canada",
               "countryName": "Canada",
-              "countryCode": "CA",
+              "countryCode": "ca",
               "languages": [
                 {
                   "adminName": "English",
                   "languageName": "English",
                   "languageCode": "en",
-                  "localeCode": "en_ca",
-                  "localeUrlPrefix": "en_ca"
+                  "localeCode": "en_ca"
                 },
                 {
                   "adminName": "French",
                   "languageName": "Fran\u00e7ais",
                   "languageCode": "fr",
-                  "localeCode": "fr_ca",
-                  "localeUrlPrefix": "fr_ca"
+                  "localeCode": "fr_ca"
                 }
-              ],
-              "hiddenFromSelector": null
+              ]
             },
             {
               "adminName": "Mexico",
               "countryName": "M\u00e9xico",
-              "countryCode": "MX",
+              "countryCode": "mx",
               "languages": [
                 {
                   "adminName": "Spanish",
                   "languageName": "Espa\u00f1ol",
                   "languageCode": "es",
-                  "localeCode": "es_mx",
-                  "localeUrlPrefix": "es_mx"
+                  "localeCode": "es_mx"
                 }
-              ],
-              "hiddenFromSelector": null
+              ]
             },
             {
               "adminName": "Puerto Rico",
               "countryName": "Puerto Rico",
-              "countryCode": "PR",
+              "countryCode": "pr",
               "languages": [
                 {
                   "adminName": "English",
                   "languageName": "English",
                   "languageCode": "en",
-                  "localeCode": "en_pr",
-                  "localeUrlPrefix": "en_pr"
+                  "localeCode": "en_pr"
                 },
                 {
                   "adminName": "Spanish",
                   "languageName": "Espa\u00f1ol",
                   "languageCode": "es",
-                  "localeCode": "es_pr",
-                  "localeUrlPrefix": "es_pr"
+                  "localeCode": "es_pr"
                 }
-              ],
-              "hiddenFromSelector": null
+              ]
             }
           ]
         },
@@ -298,405 +288,351 @@
             {
               "adminName": "Belgium",
               "countryName": "Belgium",
-              "countryCode": "BE",
+              "countryCode": "be",
               "languages": [
                 {
                   "adminName": "Dutch",
                   "languageName": "Nederlands",
                   "languageCode": "nl",
-                  "localeCode": "nl_be",
-                  "localeUrlPrefix": "nl_be"
+                  "localeCode": "nl_be"
                 },
                 {
                   "adminName": "French",
                   "languageName": "Fran\u00e7ais",
                   "languageCode": "fr",
-                  "localeCode": "fr_be",
-                  "localeUrlPrefix": "fr_be"
+                  "localeCode": "fr_be"
                 }
-              ],
-              "hiddenFromSelector": null
+              ]
             },
             {
               "adminName": "Czech Republic",
               "countryName": "\u010cesko",
-              "countryCode": "CZ",
+              "countryCode": "cz",
               "languages": [
                 {
                   "adminName": "Czech",
                   "languageName": "\u010ce\u0161tina",
                   "languageCode": "cs",
-                  "localeCode": "cs_cz",
-                  "localeUrlPrefix": "cs_cz"
+                  "localeCode": "cs_cz"
                 }
-              ],
-              "hiddenFromSelector": null
+              ]
             },
             {
               "adminName": "Denmark",
               "countryName": "Danmark",
-              "countryCode": "DK",
+              "countryCode": "dk",
               "languages": [
                 {
                   "adminName": "Danish",
                   "languageName": "Dansk",
                   "languageCode": "da",
-                  "localeCode": "da_dk",
-                  "localeUrlPrefix": "da_dk"
+                  "localeCode": "da_dk"
                 }
-              ],
-              "hiddenFromSelector": null
+              ]
             },
             {
               "adminName": "Germany",
               "countryName": "Deutschland",
-              "countryCode": "DE",
+              "countryCode": "de",
               "languages": [
                 {
                   "adminName": "German",
                   "languageName": "Deutsch",
                   "languageCode": "de",
-                  "localeCode": "de_de",
-                  "localeUrlPrefix": "de_de"
+                  "localeCode": "de_de"
                 }
-              ],
-              "hiddenFromSelector": null
+              ]
             },
             {
               "adminName": "Greece",
               "countryName": "\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
-              "countryCode": "GR",
+              "countryCode": "gr",
               "languages": [
                 {
                   "adminName": "Greek",
                   "languageName": "\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac",
                   "languageCode": "el",
-                  "localeCode": "el_gr",
-                  "localeUrlPrefix": "el_gr"
+                  "localeCode": "el_gr"
                 }
-              ],
-              "hiddenFromSelector": null
+              ]
             },
             {
               "adminName": "Spain",
               "countryName": "Espa\u00f1a",
-              "countryCode": "ES",
+              "countryCode": "es",
               "languages": [
                 {
                   "adminName": "Spanish",
                   "languageName": "Espa\u00f1ol",
                   "languageCode": "es",
-                  "localeCode": "es_es",
-                  "localeUrlPrefix": "es_es"
+                  "localeCode": "es_es"
                 }
-              ],
-              "hiddenFromSelector": null
+              ]
             },
             {
               "adminName": "France",
               "countryName": "France",
-              "countryCode": "FR",
+              "countryCode": "fr",
               "languages": [
                 {
                   "adminName": "French",
                   "languageName": "Fran\u00e7ais",
                   "languageCode": "fr",
-                  "localeCode": "fr_fr",
-                  "localeUrlPrefix": "fr_fr"
+                  "localeCode": "fr_fr"
                 }
-              ],
-              "hiddenFromSelector": null
+              ]
             },
             {
               "adminName": "Croatia",
               "countryName": "Hrvatska",
-              "countryCode": "HR",
+              "countryCode": "hr",
               "languages": [
                 {
                   "adminName": "Croatian",
                   "languageName": "Hrvatski",
                   "languageCode": "hr",
-                  "localeCode": "hr_hr",
-                  "localeUrlPrefix": "hr_hr"
+                  "localeCode": "hr_hr"
                 }
-              ],
-              "hiddenFromSelector": null
+              ]
             },
             {
               "adminName": "Hungary",
               "countryName": "Magyarorsz\u00e1g",
-              "countryCode": "HU",
+              "countryCode": "hu",
               "languages": [
                 {
                   "adminName": "Hungarian",
                   "languageName": "Magyar",
                   "languageCode": "hu",
-                  "localeCode": "hu_hu",
-                  "localeUrlPrefix": "hu_hu"
+                  "localeCode": "hu_hu"
                 }
-              ],
-              "hiddenFromSelector": null
+              ]
             },
             {
               "adminName": "Ireland",
               "countryName": "Ireland",
-              "countryCode": "IE",
+              "countryCode": "ie",
               "languages": [
                 {
                   "adminName": "English",
                   "languageName": "English",
                   "languageCode": "en",
-                  "localeCode": "en_ie",
-                  "localeUrlPrefix": "en_ie"
+                  "localeCode": "en_ie"
                 }
-              ],
-              "hiddenFromSelector": null
+              ]
             },
             {
               "adminName": "\u00cdsland",
               "countryName": "\u00cdsland",
-              "countryCode": "IS",
+              "countryCode": "is",
               "languages": [
                 {
                   "adminName": "Icelandic",
                   "languageName": "\u00cdslenska",
                   "languageCode": "is",
-                  "localeCode": "is_is",
-                  "localeUrlPrefix": "is_is"
+                  "localeCode": "is_is"
                 }
-              ],
-              "hiddenFromSelector": null
+              ]
             },
             {
               "adminName": "Italy",
               "countryName": "Italia",
-              "countryCode": "IT",
+              "countryCode": "it",
               "languages": [
                 {
                   "adminName": "Italian",
                   "languageName": "Italiano",
                   "languageCode": "it",
-                  "localeCode": "it_it",
-                  "localeUrlPrefix": "it_it"
+                  "localeCode": "it_it"
                 }
-              ],
-              "hiddenFromSelector": null
+              ]
             },
             {
               "adminName": "Luxembourg",
               "countryName": "Luxembourg",
-              "countryCode": "LU",
+              "countryCode": "lu",
               "languages": [
                 {
                   "adminName": "French",
                   "languageName": "Fran\u00e7ais",
                   "languageCode": "fr",
-                  "localeCode": "fr_lu",
-                  "localeUrlPrefix": "fr_lu"
+                  "localeCode": "fr_lu"
                 },
                 {
                   "adminName": "German",
                   "languageName": "Deutsch",
                   "languageCode": "de",
-                  "localeCode": "de_lu",
-                  "localeUrlPrefix": "de_lu"
+                  "localeCode": "de_lu"
                 }
-              ],
-              "hiddenFromSelector": null
+              ]
             },
             {
               "adminName": "Netherlands",
               "countryName": "Nederland",
-              "countryCode": "NL",
+              "countryCode": "nl",
               "languages": [
                 {
                   "adminName": "Dutch",
                   "languageName": "Nederlands",
                   "languageCode": "nl",
-                  "localeCode": "nl_nl",
-                  "localeUrlPrefix": "nl_nl"
+                  "localeCode": "nl_nl"
                 }
-              ],
-              "hiddenFromSelector": null
+              ]
             },
             {
               "adminName": "Norway",
               "countryName": "Norge",
-              "countryCode": "NO",
+              "countryCode": "no",
               "languages": [
                 {
                   "adminName": "Norwegian",
                   "languageName": "Norsk",
                   "languageCode": "no",
-                  "localeCode": "no_no",
-                  "localeUrlPrefix": "no_no"
+                  "localeCode": "no_no"
                 }
-              ],
-              "hiddenFromSelector": null
+              ]
             },
             {
               "adminName": "Austria",
               "countryName": "\u00d6sterreich",
-              "countryCode": "AT",
+              "countryCode": "at",
               "languages": [
                 {
                   "adminName": "German",
                   "languageName": "Deutsch",
                   "languageCode": "de",
-                  "localeCode": "de_at",
-                  "localeUrlPrefix": "de_at"
+                  "localeCode": "de_at"
                 }
-              ],
-              "hiddenFromSelector": null
+              ]
             },
             {
               "adminName": "Poland",
               "countryName": "Polska",
-              "countryCode": "PL",
+              "countryCode": "pl",
               "languages": [
                 {
                   "adminName": "Polish",
                   "languageName": "Polski",
                   "languageCode": "pl",
-                  "localeCode": "pl_pl",
-                  "localeUrlPrefix": "pl_pl"
+                  "localeCode": "pl_pl"
                 }
-              ],
-              "hiddenFromSelector": null
+              ]
             },
             {
               "adminName": "Portugal",
               "countryName": "Portugal",
-              "countryCode": "PT",
+              "countryCode": "pt",
               "languages": [
                 {
                   "adminName": "Portuguese",
                   "languageName": "Portugu\u00eas",
                   "languageCode": "pt",
-                  "localeCode": "pt_pt",
-                  "localeUrlPrefix": "pt_pt"
+                  "localeCode": "pt_pt"
                 }
-              ],
-              "hiddenFromSelector": null
+              ]
             },
             {
               "adminName": "Romania",
               "countryName": "Rom\u00e2nia",
-              "countryCode": "RO",
+              "countryCode": "ro",
               "languages": [
                 {
                   "adminName": "Romanian",
                   "languageName": "Rom\u00e2n\u0103",
                   "languageCode": "ro",
-                  "localeCode": "ro_ro",
-                  "localeUrlPrefix": "ro_ro"
+                  "localeCode": "ro_ro"
                 }
-              ],
-              "hiddenFromSelector": null
+              ]
             },
             {
               "adminName": "Slovenia",
               "countryName": "Slovenija",
-              "countryCode": "SI",
+              "countryCode": "si",
               "languages": [
                 {
                   "adminName": "Slovene",
                   "languageName": "Sloven\u0161\u010dina",
                   "languageCode": "sl",
-                  "localeCode": "sl_si",
-                  "localeUrlPrefix": "sl_si"
+                  "localeCode": "sl_si"
                 }
-              ],
-              "hiddenFromSelector": null
+              ]
             },
             {
               "adminName": "Switzerland",
               "countryName": "Switzerland",
-              "countryCode": "CH",
+              "countryCode": "ch",
               "languages": [
                 {
                   "adminName": "French",
                   "languageName": "Fran\u00e7ais",
                   "languageCode": "fr",
-                  "localeCode": "fr_ch",
-                  "localeUrlPrefix": "fr_ch"
+                  "localeCode": "fr_ch"
                 },
                 {
                   "adminName": "German",
                   "languageName": "Deutsch",
                   "languageCode": "de",
-                  "localeCode": "de_ch",
-                  "localeUrlPrefix": "de_ch"
+                  "localeCode": "de_ch"
                 },
                 {
                   "adminName": "Italian",
                   "languageName": "Italiano",
                   "languageCode": "it",
-                  "localeCode": "it_ch",
-                  "localeUrlPrefix": "it_ch"
+                  "localeCode": "it_ch"
                 }
-              ],
-              "hiddenFromSelector": null
+              ]
             },
             {
               "adminName": "Sweden",
               "countryName": "Sverige",
-              "countryCode": "SE",
+              "countryCode": "se",
               "languages": [
                 {
                   "adminName": "Swedish",
                   "languageName": "Svenska",
                   "languageCode": "sv",
-                  "localeCode": "sv_se",
-                  "localeUrlPrefix": "sv_se"
+                  "localeCode": "sv_se"
                 }
-              ],
-              "hiddenFromSelector": null
+              ]
             },
             {
               "adminName": "Finland",
               "countryName": "Suomi",
-              "countryCode": "FI",
+              "countryCode": "fi",
               "languages": [
                 {
                   "adminName": "Finnish",
                   "languageName": "Suomi",
                   "languageCode": "fi",
-                  "localeCode": "fi_fi",
-                  "localeUrlPrefix": "fi_fi"
+                  "localeCode": "fi_fi"
                 }
-              ],
-              "hiddenFromSelector": null
+              ]
             },
             {
               "adminName": "United Kingdom",
               "countryName": "United Kingdom",
-              "countryCode": "GB",
+              "countryCode": "gb",
               "languages": [
                 {
                   "adminName": "English",
                   "languageName": "English",
                   "languageCode": "en",
-                  "localeCode": "en_gb",
-                  "localeUrlPrefix": "en_gb"
+                  "localeCode": "en_gb"
                 }
-              ],
-              "hiddenFromSelector": null
+              ]
             },
             {
               "adminName": "Other Europe",
               "countryName": "Other Europe",
-              "countryCode": "EU",
+              "countryCode": "eu",
               "languages": [
                 {
                   "adminName": "English",
                   "languageName": "English",
                   "languageCode": "en",
-                  "localeCode": "en_eu",
-                  "localeUrlPrefix": "en_eu"
+                  "localeCode": "en_eu"
                 }
-              ],
-              "hiddenFromSelector": null
+              ]
             }
           ]
         }
@@ -710,54 +646,47 @@
             {
               "adminName": "Israel",
               "countryName": "\u05d9\u05e9\u05e8\u05d0\u05dc",
-              "countryCode": "IL",
+              "countryCode": "il",
               "languages": [
                 {
                   "adminName": "Hebrew",
                   "languageName": "\u05e2\u05b4\u05d1\u05e8\u05b4\u05d9\u05ea",
                   "languageCode": "he",
-                  "localeCode": "he_il",
-                  "localeUrlPrefix": "he_il"
+                  "localeCode": "he_il"
                 }
-              ],
-              "hiddenFromSelector": null
+              ]
             },
             {
               "adminName": "UAE",
               "countryName": "UAE",
-              "countryCode": "AE",
+              "countryCode": "ae",
               "languages": [
                 {
                   "adminName": "English",
                   "languageName": "English",
                   "languageCode": "en",
-                  "localeCode": "en_ae",
-                  "localeUrlPrefix": "en_ae"
+                  "localeCode": "en_ae"
                 },
                 {
                   "adminName": "Arabic",
                   "languageName": "\u0627\u064e\u0644\u0652\u0639\u064e\u0631\u064e\u0628\u0650\u064a\u064e\u0651\u0629\u064f",
                   "languageCode": "ar",
-                  "localeCode": "ar_ae",
-                  "localeUrlPrefix": "ar_ae"
+                  "localeCode": "ar_ae"
                 }
-              ],
-              "hiddenFromSelector": "0"
+              ]
             },
             {
               "adminName": "Jordan",
               "countryName": "Jordan",
-              "countryCode": "JO",
+              "countryCode": "jo",
               "languages": [
                 {
                   "adminName": "English",
                   "languageName": "English",
                   "languageCode": "en",
-                  "localeCode": "en_jo",
-                  "localeUrlPrefix": "en_jo"
+                  "localeCode": "en_jo"
                 }
-              ],
-              "hiddenFromSelector": null
+              ]
             }
           ]
         }
@@ -771,166 +700,131 @@
             {
               "adminName": "China",
               "countryName": "\u4e2d\u56fd\u5927\u9646",
-              "countryCode": "CN",
+              "countryCode": "cn",
               "languages": [
                 {
                   "adminName": "Chinese",
                   "languageName": "\u7b80\u4f53\u4e2d\u6587",
                   "languageCode": "zh",
-                  "localeCode": "zh_cn",
-                  "localeUrlPrefix": "zh_cn"
+                  "localeCode": "zh_cn"
                 }
-              ],
-              "hiddenFromSelector": null
+              ]
             },
             {
               "adminName": "Hong Kong",
               "countryName": "Hong Kong",
-              "countryCode": "HK",
+              "countryCode": "hk",
               "languages": [
                 {
                   "adminName": "Chinese",
                   "languageName": "\u7e41\u9ad4\u4e2d\u6587",
                   "languageCode": "zh",
-                  "localeCode": "zh_hk",
-                  "localeUrlPrefix": "zh_hk"
+                  "localeCode": "zh_hk"
                 },
                 {
                   "adminName": "English",
                   "languageName": "English",
                   "languageCode": "en",
-                  "localeCode": "en_hk",
-                  "localeUrlPrefix": "en_hk"
+                  "localeCode": "en_hk"
                 }
-              ],
-              "hiddenFromSelector": null
+              ]
             },
             {
               "adminName": "Macau",
               "countryName": "Macau",
-              "countryCode": "MO",
+              "countryCode": "mo",
               "languages": [
                 {
                   "adminName": "Chinese",
                   "languageName": "\u7e41\u9ad4\u4e2d\u6587",
                   "languageCode": "zh",
-                  "localeCode": "zh_mo",
-                  "localeUrlPrefix": "zh_mo"
+                  "localeCode": "zh_mo"
                 },
                 {
                   "adminName": "English",
                   "languageName": "English",
                   "languageCode": "en",
-                  "localeCode": "en_mo",
-                  "localeUrlPrefix": "en_mo"
+                  "localeCode": "en_mo"
                 }
-              ],
-              "hiddenFromSelector": null
+              ]
             },
             {
               "adminName": "Taiwan",
               "countryName": "\u53f0\u7063",
-              "countryCode": "TW",
+              "countryCode": "tw",
               "languages": [
                 {
                   "adminName": "Chinese",
                   "languageName": "\u7e41\u9ad4\u4e2d\u6587",
                   "languageCode": "zh",
-                  "localeCode": "zh_tw",
-                  "localeUrlPrefix": "zh_tw"
+                  "localeCode": "zh_tw"
                 }
-              ],
-              "hiddenFromSelector": null
+              ]
             },
             {
               "adminName": "Japan",
               "countryName": "\u65e5\u672c",
-              "countryCode": "JP",
+              "countryCode": "jp",
               "languages": [
                 {
                   "adminName": "Japanese",
                   "languageName": "\u65e5\u672c\u8a9e",
                   "languageCode": "ja",
-                  "localeCode": "ja_jp",
-                  "localeUrlPrefix": "ja_jp"
+                  "localeCode": "ja_jp"
                 }
-              ],
-              "hiddenFromSelector": null
+              ]
             },
             {
               "adminName": "Singapore",
               "countryName": "Singapore",
-              "countryCode": "SG",
+              "countryCode": "sg",
               "languages": [
                 {
                   "adminName": "English",
                   "languageName": "English",
                   "languageCode": "en",
-                  "localeCode": "en_sg",
-                  "localeUrlPrefix": "en_sg"
+                  "localeCode": "en_sg"
                 }
-              ],
-              "hiddenFromSelector": null
+              ]
             },
             {
               "adminName": "South Korea",
               "countryName": "\ub300\ud55c\ubbfc\uad6d",
-              "countryCode": "KR",
+              "countryCode": "kr",
               "languages": [
                 {
                   "adminName": "Korean",
                   "languageName": "\ud55c\uad6d\uc5b4",
                   "languageCode": "ko",
-                  "localeCode": "ko_kr",
-                  "localeUrlPrefix": "ko_kr"
+                  "localeCode": "ko_kr"
                 }
-              ],
-              "hiddenFromSelector": null
+              ]
             },
             {
               "adminName": "Australia",
               "countryName": "Australia",
-              "countryCode": "AU",
+              "countryCode": "au",
               "languages": [
                 {
                   "adminName": "English",
                   "languageName": "English",
                   "languageCode": "en",
-                  "localeCode": "en_au",
-                  "localeUrlPrefix": "en_au"
+                  "localeCode": "en_au"
                 }
-              ],
-              "hiddenFromSelector": null
+              ]
             },
             {
               "adminName": "New Zealand",
               "countryName": "New Zealand",
-              "countryCode": "NZ",
+              "countryCode": "nz",
               "languages": [
                 {
                   "adminName": "English",
                   "languageName": "English",
                   "languageCode": "en",
-                  "localeCode": "en_nz",
-                  "localeUrlPrefix": "en_nz"
+                  "localeCode": "en_nz"
                 }
-              ],
-              "hiddenFromSelector": null
-            },
-            {
-              "adminName": "South Africa",
-              "countryName": "South Africa",
-              "countryCode": "ZA",
-              "languages": [
-                {
-                  "adminName": "English",
-                  "languageName": "English",
-                  "languageCode": "en",
-                  "localeCode": "en_za",
-                  "localeUrlPrefix": "en_za"
-                }
-              ],
-              "hiddenFromSelector": "1"
+              ]
             }
           ]
         }
