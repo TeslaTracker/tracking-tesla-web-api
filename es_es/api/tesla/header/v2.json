@@ -1,0 +1,956 @@
+{
+  "sl_translate": "drawerTitle,title,titleMobile,drawerImageAltText,region,siteHeader,localeSelector,closeButtonText,moreLinkText,skipToMainContentText,backLinkText,menuLinkText,logoLabel",
+  "primaryNavigationItems": [
+    {
+      "title": "Model S",
+      "titleMobile": "Model S",
+      "href": "/es_es/models",
+      "drawerMenu": {
+        "additionalLinks": [
+          { "href": "/es_es/inventory/new/ms", "title": "Entrega Inmediata" },
+          {
+            "href": "/es_es/inventory/used/ms",
+            "title": "Inventario de usados"
+          },
+          { "href": "/es_es/models", "title": "Descripción general" }
+        ],
+        "buttonHref": "/es_es/models/design",
+        "buttonTitle": "Order now",
+        "drawerImageSrc": "/themes/custom/tesla_frontend/assets/images/mm_models.png",
+        "drawerImageAltText": "Model S image",
+        "drawerTitle": "Model S"
+      }
+    },
+    {
+      "title": "Model 3",
+      "titleMobile": "Model 3",
+      "href": "/es_es/model3",
+      "drawerMenu": {
+        "additionalLinks": [
+          { "href": "/es_es/inventory/new/m3", "title": "Entrega Inmediata" },
+          {
+            "href": "/es_es/inventory/used/m3",
+            "title": "Inventario de usados"
+          },
+          { "href": "/es_es/model3", "title": "Descripción general" }
+        ],
+        "buttonHref": "/es_es/model3/design",
+        "buttonTitle": "Order now",
+        "drawerImageSrc": "/themes/custom/tesla_frontend/assets/images/mm_model3.png",
+        "drawerImageAltText": "Model 3 image",
+        "drawerTitle": "Model 3"
+      }
+    },
+    {
+      "title": "Model X",
+      "titleMobile": "Model X",
+      "href": "/es_es/modelx",
+      "drawerMenu": {
+        "additionalLinks": [
+          { "href": "/es_es/inventory/new/mx", "title": "Entrega Inmediata" },
+          {
+            "href": "/es_es/inventory/used/mx",
+            "title": "Inventario de usados"
+          },
+          { "href": "/es_es/modelx", "title": "Descripción general" }
+        ],
+        "buttonHref": "/es_es/modelx/design",
+        "buttonTitle": "Order now",
+        "drawerImageSrc": "/themes/custom/tesla_frontend/assets/images/mm_modelx.png",
+        "drawerImageAltText": "Model X image",
+        "drawerTitle": "Model X"
+      }
+    },
+    {
+      "title": "Model Y",
+      "titleMobile": "Model Y",
+      "href": "/es_es/modely",
+      "drawerMenu": {
+        "additionalLinks": [
+          { "href": "/es_es/modely", "title": "Descripción general" },
+          { "href": "/es_es/drive", "title": "Prueba de conducción" }
+        ],
+        "buttonHref": "/es_es/modely/design",
+        "buttonTitle": "Order now",
+        "drawerImageSrc": "/themes/custom/tesla_frontend/assets/images/mm_modely.png",
+        "drawerImageAltText": "Model Y image",
+        "drawerTitle": "Model Y"
+      }
+    },
+    {
+      "title": "Energía",
+      "titleMobile": "Energía",
+      "href": "/es_es/energy",
+      "drawerMenu": {
+        "additionalLinks": [
+          { "href": "/es_es/energy", "title": "Energía" },
+          { "href": "/es_es/powerwall", "title": "Powerwall" },
+          { "href": "/es_es/megapack", "title": "Mega Pack" }
+        ],
+        "buttonHref": "/es_es/energy",
+        "buttonTitle": "Learn More",
+        "drawerImageSrc": "/themes/custom/tesla_frontend/assets/images/mm_energy.png",
+        "drawerImageAltText": "Energy image",
+        "drawerTitle": "Energía"
+      }
+    }
+  ],
+  "primaryNavigationRightItems": [
+    {
+      "title": "Cuenta",
+      "titleMobile": "Cuenta",
+      "href": "/es_es/teslaaccount"
+    },
+    {
+      "title": "Tienda",
+      "titleMobile": "Tienda",
+      "href": "https://shop.tesla.com/es/es?redirect=no",
+      "drawerMenu": {
+        "additionalLinks": [
+          {
+            "href": "https://shop.tesla.com/category/charging",
+            "title": "Carga"
+          },
+          {
+            "href": "https://shop.tesla.com/category/vehicle-accessories",
+            "title": "Accesorios para el vehículo"
+          },
+          {
+            "href": "https://shop.tesla.com/category/apparel",
+            "title": "Apparel"
+          }
+        ],
+        "buttonHref": "https://shop.tesla.com/",
+        "buttonTitle": "View All Products",
+        "drawerImageSrc": "/themes/custom/tesla_frontend/assets/images/mm_shop.png",
+        "drawerImageAltText": "shop image",
+        "drawerTitle": "Tienda"
+      }
+    },
+    {
+      "title": "Menú",
+      "titleMobile": "Menú",
+      "drawerMenuDrillDown": {
+        "submenus": [
+          {
+            "title": "Products and Services",
+            "titleMobile": "Products and Services",
+            "submenuLinks": [
+              {
+                "title": "Entrega Inmediata",
+                "titleMobile": "Entrega Inmediata",
+                "hideOn": ["phone-only"],
+                "href": "/es_es/inventory/new/ms"
+              },
+              {
+                "title": "Inventario de usados",
+                "titleMobile": "Inventario de usados",
+                "hideOn": ["phone-only"],
+                "href": "/es_es/inventory/used/ms"
+              },
+              {
+                "title": "Intercambio",
+                "titleMobile": "Intercambio",
+                "href": "/es_es/tradein"
+              },
+              {
+                "title": "Cybertruck",
+                "titleMobile": "Cybertruck",
+                "href": "/es_es/cybertruck"
+              },
+              {
+                "title": "Roadster",
+                "titleMobile": "Roadster",
+                "href": "/es_es/roadster"
+              },
+              {
+                "title": "Carga",
+                "titleMobile": "Carga",
+                "href": "/es_es/charging"
+              },
+              {
+                "title": "Prueba de conducción",
+                "titleMobile": "Prueba de conducción",
+                "href": "/es_es/drive"
+              },
+              {
+                "title": "Flotas y empresas",
+                "titleMobile": "Flotas y empresas",
+                "href": "/es_es/fleet-company-car"
+              }
+            ]
+          },
+          {
+            "title": "Descubrir",
+            "titleMobile": "Descubrir",
+            "submenuLinks": [
+              {
+                "title": "Dónde estamos",
+                "titleMobile": "Dónde estamos",
+                "href": "/es_es/findus"
+              },
+              {
+                "title": "Eventos",
+                "titleMobile": "Eventos",
+                "href": "/es_es/events"
+              }
+            ]
+          },
+          {
+            "title": "Persona Jurídica (Empresa)",
+            "titleMobile": "Persona Jurídica (Empresa)",
+            "submenuLinks": [
+              {
+                "title": "Soporte",
+                "titleMobile": "Soporte",
+                "href": "/es_es/support"
+              }
+            ]
+          }
+        ],
+        "drawerTitle": "Menú"
+      },
+      "hamburgerMenu": true
+    }
+  ],
+  "localeSelector": [
+    {
+      "regions": [
+        {
+          "regionName": "North America",
+          "countries": [
+            {
+              "adminName": "United States",
+              "countryName": "United States",
+              "countryCode": "US",
+              "languages": [
+                {
+                  "adminName": "English",
+                  "languageName": "English",
+                  "languageCode": "en",
+                  "localeCode": "en_us",
+                  "localeUrlPrefix": "en_us"
+                }
+              ],
+              "hiddenFromSelector": null
+            },
+            {
+              "adminName": "Canada",
+              "countryName": "Canada",
+              "countryCode": "CA",
+              "languages": [
+                {
+                  "adminName": "English",
+                  "languageName": "English",
+                  "languageCode": "en",
+                  "localeCode": "en_ca",
+                  "localeUrlPrefix": "en_ca"
+                },
+                {
+                  "adminName": "French",
+                  "languageName": "Fran\u00e7ais",
+                  "languageCode": "fr",
+                  "localeCode": "fr_ca",
+                  "localeUrlPrefix": "fr_ca"
+                }
+              ],
+              "hiddenFromSelector": null
+            },
+            {
+              "adminName": "Mexico",
+              "countryName": "M\u00e9xico",
+              "countryCode": "MX",
+              "languages": [
+                {
+                  "adminName": "Spanish",
+                  "languageName": "Espa\u00f1ol",
+                  "languageCode": "es",
+                  "localeCode": "es_mx",
+                  "localeUrlPrefix": "es_mx"
+                }
+              ],
+              "hiddenFromSelector": null
+            },
+            {
+              "adminName": "Puerto Rico",
+              "countryName": "Puerto Rico",
+              "countryCode": "PR",
+              "languages": [
+                {
+                  "adminName": "English",
+                  "languageName": "English",
+                  "languageCode": "en",
+                  "localeCode": "en_pr",
+                  "localeUrlPrefix": "en_pr"
+                },
+                {
+                  "adminName": "Spanish",
+                  "languageName": "Espa\u00f1ol",
+                  "languageCode": "es",
+                  "localeCode": "es_pr",
+                  "localeUrlPrefix": "es_pr"
+                }
+              ],
+              "hiddenFromSelector": null
+            }
+          ]
+        },
+        {
+          "regionName": "Europe",
+          "countries": [
+            {
+              "adminName": "Belgium",
+              "countryName": "Belgium",
+              "countryCode": "BE",
+              "languages": [
+                {
+                  "adminName": "Dutch",
+                  "languageName": "Nederlands",
+                  "languageCode": "nl",
+                  "localeCode": "nl_be",
+                  "localeUrlPrefix": "nl_be"
+                },
+                {
+                  "adminName": "French",
+                  "languageName": "Fran\u00e7ais",
+                  "languageCode": "fr",
+                  "localeCode": "fr_be",
+                  "localeUrlPrefix": "fr_be"
+                }
+              ],
+              "hiddenFromSelector": null
+            },
+            {
+              "adminName": "Czech Republic",
+              "countryName": "\u010cesko",
+              "countryCode": "CZ",
+              "languages": [
+                {
+                  "adminName": "Czech",
+                  "languageName": "\u010ce\u0161tina",
+                  "languageCode": "cs",
+                  "localeCode": "cs_cz",
+                  "localeUrlPrefix": "cs_cz"
+                }
+              ],
+              "hiddenFromSelector": null
+            },
+            {
+              "adminName": "Denmark",
+              "countryName": "Danmark",
+              "countryCode": "DK",
+              "languages": [
+                {
+                  "adminName": "Danish",
+                  "languageName": "Dansk",
+                  "languageCode": "da",
+                  "localeCode": "da_dk",
+                  "localeUrlPrefix": "da_dk"
+                }
+              ],
+              "hiddenFromSelector": null
+            },
+            {
+              "adminName": "Germany",
+              "countryName": "Deutschland",
+              "countryCode": "DE",
+              "languages": [
+                {
+                  "adminName": "German",
+                  "languageName": "Deutsch",
+                  "languageCode": "de",
+                  "localeCode": "de_de",
+                  "localeUrlPrefix": "de_de"
+                }
+              ],
+              "hiddenFromSelector": null
+            },
+            {
+              "adminName": "Greece",
+              "countryName": "\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+              "countryCode": "GR",
+              "languages": [
+                {
+                  "adminName": "Greek",
+                  "languageName": "\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac",
+                  "languageCode": "el",
+                  "localeCode": "el_gr",
+                  "localeUrlPrefix": "el_gr"
+                }
+              ],
+              "hiddenFromSelector": null
+            },
+            {
+              "adminName": "Spain",
+              "countryName": "Espa\u00f1a",
+              "countryCode": "ES",
+              "languages": [
+                {
+                  "adminName": "Spanish",
+                  "languageName": "Espa\u00f1ol",
+                  "languageCode": "es",
+                  "localeCode": "es_es",
+                  "localeUrlPrefix": "es_es"
+                }
+              ],
+              "hiddenFromSelector": null
+            },
+            {
+              "adminName": "France",
+              "countryName": "France",
+              "countryCode": "FR",
+              "languages": [
+                {
+                  "adminName": "French",
+                  "languageName": "Fran\u00e7ais",
+                  "languageCode": "fr",
+                  "localeCode": "fr_fr",
+                  "localeUrlPrefix": "fr_fr"
+                }
+              ],
+              "hiddenFromSelector": null
+            },
+            {
+              "adminName": "Croatia",
+              "countryName": "Hrvatska",
+              "countryCode": "HR",
+              "languages": [
+                {
+                  "adminName": "Croatian",
+                  "languageName": "Hrvatski",
+                  "languageCode": "hr",
+                  "localeCode": "hr_hr",
+                  "localeUrlPrefix": "hr_hr"
+                }
+              ],
+              "hiddenFromSelector": null
+            },
+            {
+              "adminName": "Hungary",
+              "countryName": "Magyarorsz\u00e1g",
+              "countryCode": "HU",
+              "languages": [
+                {
+                  "adminName": "Hungarian",
+                  "languageName": "Magyar",
+                  "languageCode": "hu",
+                  "localeCode": "hu_hu",
+                  "localeUrlPrefix": "hu_hu"
+                }
+              ],
+              "hiddenFromSelector": null
+            },
+            {
+              "adminName": "Ireland",
+              "countryName": "Ireland",
+              "countryCode": "IE",
+              "languages": [
+                {
+                  "adminName": "English",
+                  "languageName": "English",
+                  "languageCode": "en",
+                  "localeCode": "en_ie",
+                  "localeUrlPrefix": "en_ie"
+                }
+              ],
+              "hiddenFromSelector": null
+            },
+            {
+              "adminName": "\u00cdsland",
+              "countryName": "\u00cdsland",
+              "countryCode": "IS",
+              "languages": [
+                {
+                  "adminName": "Icelandic",
+                  "languageName": "\u00cdslenska",
+                  "languageCode": "is",
+                  "localeCode": "is_is",
+                  "localeUrlPrefix": "is_is"
+                }
+              ],
+              "hiddenFromSelector": null
+            },
+            {
+              "adminName": "Italy",
+              "countryName": "Italia",
+              "countryCode": "IT",
+              "languages": [
+                {
+                  "adminName": "Italian",
+                  "languageName": "Italiano",
+                  "languageCode": "it",
+                  "localeCode": "it_it",
+                  "localeUrlPrefix": "it_it"
+                }
+              ],
+              "hiddenFromSelector": null
+            },
+            {
+              "adminName": "Luxembourg",
+              "countryName": "Luxembourg",
+              "countryCode": "LU",
+              "languages": [
+                {
+                  "adminName": "French",
+                  "languageName": "Fran\u00e7ais",
+                  "languageCode": "fr",
+                  "localeCode": "fr_lu",
+                  "localeUrlPrefix": "fr_lu"
+                },
+                {
+                  "adminName": "German",
+                  "languageName": "Deutsch",
+                  "languageCode": "de",
+                  "localeCode": "de_lu",
+                  "localeUrlPrefix": "de_lu"
+                }
+              ],
+              "hiddenFromSelector": null
+            },
+            {
+              "adminName": "Netherlands",
+              "countryName": "Nederland",
+              "countryCode": "NL",
+              "languages": [
+                {
+                  "adminName": "Dutch",
+                  "languageName": "Nederlands",
+                  "languageCode": "nl",
+                  "localeCode": "nl_nl",
+                  "localeUrlPrefix": "nl_nl"
+                }
+              ],
+              "hiddenFromSelector": null
+            },
+            {
+              "adminName": "Norway",
+              "countryName": "Norge",
+              "countryCode": "NO",
+              "languages": [
+                {
+                  "adminName": "Norwegian",
+                  "languageName": "Norsk",
+                  "languageCode": "no",
+                  "localeCode": "no_no",
+                  "localeUrlPrefix": "no_no"
+                }
+              ],
+              "hiddenFromSelector": null
+            },
+            {
+              "adminName": "Austria",
+              "countryName": "\u00d6sterreich",
+              "countryCode": "AT",
+              "languages": [
+                {
+                  "adminName": "German",
+                  "languageName": "Deutsch",
+                  "languageCode": "de",
+                  "localeCode": "de_at",
+                  "localeUrlPrefix": "de_at"
+                }
+              ],
+              "hiddenFromSelector": null
+            },
+            {
+              "adminName": "Poland",
+              "countryName": "Polska",
+              "countryCode": "PL",
+              "languages": [
+                {
+                  "adminName": "Polish",
+                  "languageName": "Polski",
+                  "languageCode": "pl",
+                  "localeCode": "pl_pl",
+                  "localeUrlPrefix": "pl_pl"
+                }
+              ],
+              "hiddenFromSelector": null
+            },
+            {
+              "adminName": "Portugal",
+              "countryName": "Portugal",
+              "countryCode": "PT",
+              "languages": [
+                {
+                  "adminName": "Portuguese",
+                  "languageName": "Portugu\u00eas",
+                  "languageCode": "pt",
+                  "localeCode": "pt_pt",
+                  "localeUrlPrefix": "pt_pt"
+                }
+              ],
+              "hiddenFromSelector": null
+            },
+            {
+              "adminName": "Romania",
+              "countryName": "Rom\u00e2nia",
+              "countryCode": "RO",
+              "languages": [
+                {
+                  "adminName": "Romanian",
+                  "languageName": "Rom\u00e2n\u0103",
+                  "languageCode": "ro",
+                  "localeCode": "ro_ro",
+                  "localeUrlPrefix": "ro_ro"
+                }
+              ],
+              "hiddenFromSelector": null
+            },
+            {
+              "adminName": "Slovenia",
+              "countryName": "Slovenija",
+              "countryCode": "SI",
+              "languages": [
+                {
+                  "adminName": "Slovene",
+                  "languageName": "Sloven\u0161\u010dina",
+                  "languageCode": "sl",
+                  "localeCode": "sl_si",
+                  "localeUrlPrefix": "sl_si"
+                }
+              ],
+              "hiddenFromSelector": null
+            },
+            {
+              "adminName": "Switzerland",
+              "countryName": "Switzerland",
+              "countryCode": "CH",
+              "languages": [
+                {
+                  "adminName": "French",
+                  "languageName": "Fran\u00e7ais",
+                  "languageCode": "fr",
+                  "localeCode": "fr_ch",
+                  "localeUrlPrefix": "fr_ch"
+                },
+                {
+                  "adminName": "German",
+                  "languageName": "Deutsch",
+                  "languageCode": "de",
+                  "localeCode": "de_ch",
+                  "localeUrlPrefix": "de_ch"
+                },
+                {
+                  "adminName": "Italian",
+                  "languageName": "Italiano",
+                  "languageCode": "it",
+                  "localeCode": "it_ch",
+                  "localeUrlPrefix": "it_ch"
+                }
+              ],
+              "hiddenFromSelector": null
+            },
+            {
+              "adminName": "Sweden",
+              "countryName": "Sverige",
+              "countryCode": "SE",
+              "languages": [
+                {
+                  "adminName": "Swedish",
+                  "languageName": "Svenska",
+                  "languageCode": "sv",
+                  "localeCode": "sv_se",
+                  "localeUrlPrefix": "sv_se"
+                }
+              ],
+              "hiddenFromSelector": null
+            },
+            {
+              "adminName": "Finland",
+              "countryName": "Suomi",
+              "countryCode": "FI",
+              "languages": [
+                {
+                  "adminName": "Finnish",
+                  "languageName": "Suomi",
+                  "languageCode": "fi",
+                  "localeCode": "fi_fi",
+                  "localeUrlPrefix": "fi_fi"
+                }
+              ],
+              "hiddenFromSelector": null
+            },
+            {
+              "adminName": "United Kingdom",
+              "countryName": "United Kingdom",
+              "countryCode": "GB",
+              "languages": [
+                {
+                  "adminName": "English",
+                  "languageName": "English",
+                  "languageCode": "en",
+                  "localeCode": "en_gb",
+                  "localeUrlPrefix": "en_gb"
+                }
+              ],
+              "hiddenFromSelector": null
+            },
+            {
+              "adminName": "Other Europe",
+              "countryName": "Other Europe",
+              "countryCode": "EU",
+              "languages": [
+                {
+                  "adminName": "English",
+                  "languageName": "English",
+                  "languageCode": "en",
+                  "localeCode": "en_eu",
+                  "localeUrlPrefix": "en_eu"
+                }
+              ],
+              "hiddenFromSelector": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "regions": [
+        {
+          "regionName": "Middle-East",
+          "countries": [
+            {
+              "adminName": "Israel",
+              "countryName": "\u05d9\u05e9\u05e8\u05d0\u05dc",
+              "countryCode": "IL",
+              "languages": [
+                {
+                  "adminName": "Hebrew",
+                  "languageName": "\u05e2\u05b4\u05d1\u05e8\u05b4\u05d9\u05ea",
+                  "languageCode": "he",
+                  "localeCode": "he_il",
+                  "localeUrlPrefix": "he_il"
+                }
+              ],
+              "hiddenFromSelector": null
+            },
+            {
+              "adminName": "UAE",
+              "countryName": "UAE",
+              "countryCode": "AE",
+              "languages": [
+                {
+                  "adminName": "English",
+                  "languageName": "English",
+                  "languageCode": "en",
+                  "localeCode": "en_ae",
+                  "localeUrlPrefix": "en_ae"
+                },
+                {
+                  "adminName": "Arabic",
+                  "languageName": "\u0627\u064e\u0644\u0652\u0639\u064e\u0631\u064e\u0628\u0650\u064a\u064e\u0651\u0629\u064f",
+                  "languageCode": "ar",
+                  "localeCode": "ar_ae",
+                  "localeUrlPrefix": "ar_ae"
+                }
+              ],
+              "hiddenFromSelector": "0"
+            },
+            {
+              "adminName": "Jordan",
+              "countryName": "Jordan",
+              "countryCode": "JO",
+              "languages": [
+                {
+                  "adminName": "English",
+                  "languageName": "English",
+                  "languageCode": "en",
+                  "localeCode": "en_jo",
+                  "localeUrlPrefix": "en_jo"
+                }
+              ],
+              "hiddenFromSelector": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "regions": [
+        {
+          "regionName": "Asia/Pacific",
+          "countries": [
+            {
+              "adminName": "China",
+              "countryName": "\u4e2d\u56fd\u5927\u9646",
+              "countryCode": "CN",
+              "languages": [
+                {
+                  "adminName": "Chinese",
+                  "languageName": "\u7b80\u4f53\u4e2d\u6587",
+                  "languageCode": "zh",
+                  "localeCode": "zh_cn",
+                  "localeUrlPrefix": "zh_cn"
+                }
+              ],
+              "hiddenFromSelector": null
+            },
+            {
+              "adminName": "Hong Kong",
+              "countryName": "Hong Kong",
+              "countryCode": "HK",
+              "languages": [
+                {
+                  "adminName": "Chinese",
+                  "languageName": "\u7e41\u9ad4\u4e2d\u6587",
+                  "languageCode": "zh",
+                  "localeCode": "zh_hk",
+                  "localeUrlPrefix": "zh_hk"
+                },
+                {
+                  "adminName": "English",
+                  "languageName": "English",
+                  "languageCode": "en",
+                  "localeCode": "en_hk",
+                  "localeUrlPrefix": "en_hk"
+                }
+              ],
+              "hiddenFromSelector": null
+            },
+            {
+              "adminName": "Macau",
+              "countryName": "Macau",
+              "countryCode": "MO",
+              "languages": [
+                {
+                  "adminName": "Chinese",
+                  "languageName": "\u7e41\u9ad4\u4e2d\u6587",
+                  "languageCode": "zh",
+                  "localeCode": "zh_mo",
+                  "localeUrlPrefix": "zh_mo"
+                },
+                {
+                  "adminName": "English",
+                  "languageName": "English",
+                  "languageCode": "en",
+                  "localeCode": "en_mo",
+                  "localeUrlPrefix": "en_mo"
+                }
+              ],
+              "hiddenFromSelector": null
+            },
+            {
+              "adminName": "Taiwan",
+              "countryName": "\u53f0\u7063",
+              "countryCode": "TW",
+              "languages": [
+                {
+                  "adminName": "Chinese",
+                  "languageName": "\u7e41\u9ad4\u4e2d\u6587",
+                  "languageCode": "zh",
+                  "localeCode": "zh_tw",
+                  "localeUrlPrefix": "zh_tw"
+                }
+              ],
+              "hiddenFromSelector": null
+            },
+            {
+              "adminName": "Japan",
+              "countryName": "\u65e5\u672c",
+              "countryCode": "JP",
+              "languages": [
+                {
+                  "adminName": "Japanese",
+                  "languageName": "\u65e5\u672c\u8a9e",
+                  "languageCode": "ja",
+                  "localeCode": "ja_jp",
+                  "localeUrlPrefix": "ja_jp"
+                }
+              ],
+              "hiddenFromSelector": null
+            },
+            {
+              "adminName": "Singapore",
+              "countryName": "Singapore",
+              "countryCode": "SG",
+              "languages": [
+                {
+                  "adminName": "English",
+                  "languageName": "English",
+                  "languageCode": "en",
+                  "localeCode": "en_sg",
+                  "localeUrlPrefix": "en_sg"
+                }
+              ],
+              "hiddenFromSelector": null
+            },
+            {
+              "adminName": "South Korea",
+              "countryName": "\ub300\ud55c\ubbfc\uad6d",
+              "countryCode": "KR",
+              "languages": [
+                {
+                  "adminName": "Korean",
+                  "languageName": "\ud55c\uad6d\uc5b4",
+                  "languageCode": "ko",
+                  "localeCode": "ko_kr",
+                  "localeUrlPrefix": "ko_kr"
+                }
+              ],
+              "hiddenFromSelector": null
+            },
+            {
+              "adminName": "Australia",
+              "countryName": "Australia",
+              "countryCode": "AU",
+              "languages": [
+                {
+                  "adminName": "English",
+                  "languageName": "English",
+                  "languageCode": "en",
+                  "localeCode": "en_au",
+                  "localeUrlPrefix": "en_au"
+                }
+              ],
+              "hiddenFromSelector": null
+            },
+            {
+              "adminName": "New Zealand",
+              "countryName": "New Zealand",
+              "countryCode": "NZ",
+              "languages": [
+                {
+                  "adminName": "English",
+                  "languageName": "English",
+                  "languageCode": "en",
+                  "localeCode": "en_nz",
+                  "localeUrlPrefix": "en_nz"
+                }
+              ],
+              "hiddenFromSelector": null
+            },
+            {
+              "adminName": "South Africa",
+              "countryName": "South Africa",
+              "countryCode": "ZA",
+              "languages": [
+                {
+                  "adminName": "English",
+                  "languageName": "English",
+                  "languageCode": "en",
+                  "localeCode": "en_za",
+                  "localeUrlPrefix": "en_za"
+                }
+              ],
+              "hiddenFromSelector": "1"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "translatableText": {
+    "siteHeader": "Encabezado del sitio",
+    "localeSelector": "Locale selector",
+    "closeButtonText": "Cerrar",
+    "moreLinkText": "Más",
+    "skipToMainContentText": "Skip to main content",
+    "backLinkText": "Volver",
+    "menuLinkText": "Menú",
+    "logoLabel": "Tesla homepage",
+    "localeSelectorTriggerCountry": "Espa\u00f1a",
+    "localeSelectorTriggerLanguage": "Espa\u00f1ol"
+  },
+  "logo": { "href": "/es_es" }
+}
