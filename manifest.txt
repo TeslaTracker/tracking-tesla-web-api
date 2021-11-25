@@ -9,7 +9,7 @@ temp/tesla-web-api/en_gb/api/tesla/header/v1.json
 temp/tesla-web-api/en_gb/api/tesla/header/v2.json
 temp/tesla-web-api/es_es/api/tesla/footer/html/v1.html
 temp/tesla-web-api/es_es/api/tesla/header/v1.json
-temp/tesla-web-api/es_es/api/tesla/header/v2.json
 temp/tesla-web-api/fr_fr/api/tesla/footer/html/v1.html
+temp/tesla-web-api/es_es/api/tesla/header/v2.json
 temp/tesla-web-api/fr_fr/api/tesla/header/v1.json
 temp/tesla-web-api/fr_fr/api/tesla/header/v2.json
