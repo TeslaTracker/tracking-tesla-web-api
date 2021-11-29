@@ -1,6 +1,6 @@
 temp/tesla-web-api/api/tesla/footer/html/v1.html
-temp/tesla-web-api/api/tesla/header/v1.json
 temp/tesla-web-api/api/tesla/header/v2.json
+temp/tesla-web-api/api/tesla/header/v1.json
 temp/tesla-web-api/de_de/api/tesla/footer/html/v1.html
 temp/tesla-web-api/de_de/api/tesla/header/v1.json
 temp/tesla-web-api/de_de/api/tesla/header/v2.json
